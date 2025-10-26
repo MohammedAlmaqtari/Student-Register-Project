@@ -1,0 +1,9 @@
+C:\Users\hicom\Documents\Visual Studio 2013\Projects\course14\StudentRegistrationForm\StudentRegistrationForm\bin\Debug\StudentRegistrationForm.exe.config
+C:\Users\hicom\Documents\Visual Studio 2013\Projects\course14\StudentRegistrationForm\StudentRegistrationForm\bin\Debug\StudentRegistrationForm.exe
+C:\Users\hicom\Documents\Visual Studio 2013\Projects\course14\StudentRegistrationForm\StudentRegistrationForm\bin\Debug\StudentRegistrationForm.pdb
+C:\Users\hicom\Documents\Visual Studio 2013\Projects\course14\StudentRegistrationForm\StudentRegistrationForm\obj\Debug\StudentRegistrationForm.csprojResolveAssemblyReference.cache
+C:\Users\hicom\Documents\Visual Studio 2013\Projects\course14\StudentRegistrationForm\StudentRegistrationForm\obj\Debug\StudentRegistrationForm.frmRegistration.resources
+C:\Users\hicom\Documents\Visual Studio 2013\Projects\course14\StudentRegistrationForm\StudentRegistrationForm\obj\Debug\StudentRegistrationForm.Properties.Resources.resources
+C:\Users\hicom\Documents\Visual Studio 2013\Projects\course14\StudentRegistrationForm\StudentRegistrationForm\obj\Debug\StudentRegistrationForm.csproj.GenerateResource.Cache
+C:\Users\hicom\Documents\Visual Studio 2013\Projects\course14\StudentRegistrationForm\StudentRegistrationForm\obj\Debug\StudentRegistrationForm.exe
+C:\Users\hicom\Documents\Visual Studio 2013\Projects\course14\StudentRegistrationForm\StudentRegistrationForm\obj\Debug\StudentRegistrationForm.pdb
